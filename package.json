@@ -1,6 +1,6 @@
 {
-  "name": "vue-stripe-js",
-  "version": "1.0.1",
+  "name": "@enviera/vue-stripe-js",
+  "version": "1.0.0",
   "description": "Vue 3 components for Stripe.js: Elements & Checkout",
   "main": "./dist/vue-stripe.umd.js",
   "module": "./dist/vue-stripe.es.js",
@@ -28,11 +28,11 @@
     "Payment",
     "Components"
   ],
-  "author": "Oleksandr Bystrikov",
+  "author": "Indra Tjhai",
   "license": "MIT",
-  "homepage": "https://github.com/ectoflow/vue-stripe-js",
+  "homepage": "https://github.com/indratjhai/vue-stripe-js",
   "bugs": {
-    "url": "https://github.com/ectoflow/vue-stripe-js/issues"
+    "url": "https://github.com/indratjhai/vue-stripe-js/issues"
   },
   "scripts": {
     "dev": "vite",
